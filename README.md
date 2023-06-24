@@ -50,7 +50,7 @@ Once we have tested the connectivity as the above paragraph has shown, we then l
 <img src="https://i.imgur.com/tXTjIhm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once Active Directory has been set up with the Domain Controller, we then created Organizational Units (OU). We named these OU _EMPLOYEES and _ADMINS, this naming convention was to make it easier to differentiate from the OU that were automatically created by the installation of Active Directory. We then created a Jane Doe account and set them with Domain Administrator privileges to use for the rest of this demonstration as a live Administrator user.  </p>
+Once Active Directory has been set up with the Domain Controller, we then created Organizational Units (OU). We named these OU _EMPLOYEES and _ADMINS, this naming convention was used to make it easier to differentiate from the OU that were automatically created by the installation of Active Directory. We then created a Jane Doe account and set them with Domain Administrator privileges to use for the rest of this demonstration as a live Administrator user.  </p>
 <br />
 
 <p>
