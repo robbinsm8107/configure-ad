@@ -73,10 +73,12 @@ We then had to log back into the Client-1 VM to set up the ability for Domain Us
 
 </p>
 <p>
-We then utilized a Powershell script to create one hundred users; I do not take credit for the creation of the Powershell script itself because I was able to find this script through Josh Madakor's Github profile. The link to this script is found below:
-https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1
+We then utilized a Powershell script to create one hundred users; I do not take credit for the creation of the Powershell script itself because I was able to find this script through Josh Madakor's Github profile. The link to this script is found below this paragraph.
 This script will create user accounts with random letters to generate the first and last names where they will all have the same password. I would never use this type of script in an actual production environment but I felt like this was very helpful in learning more about Active Directory and saved time in the creation and implementation of fake user accounts for this demonstration. I am showing examples of both the Powershell script being run (as administrator) and then the actual names that the script has created.
 </p> 
+
+<p>
+https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1</p>
 <br />
 
 <p>
